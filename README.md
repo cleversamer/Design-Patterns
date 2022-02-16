@@ -1,5 +1,5 @@
 # Design Patterns
-This repository includes the most common design patterns implemented in Java, it includes code, use cases, illustrative pictures, and also PDF exercises.
+This repository includes the most common design patterns implemented in Java, it includes code, use cases, and illustrative pictures.
 * The list of design patterns included in this repository:
 1. Memento Pattern
 2. State Pattern
